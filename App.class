@@ -1,0 +1,4 @@
+$ git add App.class
+The following paths are ignored by one of your .gitignore files:
+App.class
+Use -f if you really want to add them.
